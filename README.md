@@ -51,3 +51,4 @@ Equipped with this knowledge, you are now ready to tackle greater challenges!
 
 
 > **Happy Coding `:)`**
+# calculator-js
